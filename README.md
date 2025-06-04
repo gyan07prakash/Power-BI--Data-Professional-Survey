@@ -40,6 +40,10 @@ Before building the dashboard, the dataset underwent several preprocessing steps
 
 ---
 
+## 📸 Dashboard Screenshot
+! [Dashboard](PowerBI DataProfessional.png)
+--- 
+
 ## 📂 Files
 
 - `DataProfessionalSurveyDashboard.pbix` – Power BI dashboard file
